@@ -1,4 +1,5 @@
-# Wait Time Prediction Model (before property separation) 
+# Wait Time Prediction Model
+# Before Property Separation 
 
 ## 📊 1. Data Sources & Cleaning
 - **Snowflake connection** to pull core wait time data.
