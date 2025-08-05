@@ -72,9 +72,9 @@ Model provides a consistent safety margin in most minutes but **wastes buffer on
 
 2. **Extreme-Event Feature Engineering**  
    - Integrate features that better capture rare spikes:
-     - Ticket sell-through % / day-of-game sales
+     - Ticket sell-through % / day-of-game sales ???
      - Same-day transit disruptions
-     - Door opening delays or operational incidents
+     - Door opening delays or operational incidents / ingress delays 
      - High-impact concurrent NYC events
 
 3. **Dynamic Safety Buffering**  
