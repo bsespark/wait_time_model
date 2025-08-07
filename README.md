@@ -1,7 +1,9 @@
-# Wait Time Prediction Model (before property separation) 
+# Wait Time Prediction Model
+# Before Property Separation 
 
 ## 📊 1. Data Sources & Cleaning
 - **Snowflake connection** to pull core wait time data.
+    - Data: 2023-09-01 to 2025-07-26
 - Removed irrelevant events: `Test`, `Cancelled`, `Upsell`.
 - Defined **relative start time cutoff** and created `5_minute_bucket` for temporal grouping.
 - Added **queue trend features**: 5 minute --> 3 minute 
