@@ -1,0 +1,1393 @@
+feature,importance,model
+num__queue_slope_3,0.43472858275025617,GB_Single
+num__queue_mean_3,0.41905573114786854,GB_Single
+num__log_queue_max10,0.05153326701554632,GB_Single
+num__count,0.011806046052247918,GB_Single
+num__minute_minor_interaction,0.007966160275751002,GB_Single
+num__minute_sq,0.007273964208516919,GB_Single
+num__relative start (minutes),0.006781728518179846,GB_Single
+num__precipitation_sum,0.0034746282471688488,GB_Single
+cat__team_chase atlantic,0.003309261936494263,GB_Single
+cat__time category_30-60 min before,0.003110753158095742,GB_Single
+cat__team_twenty one pilots,0.0028772836599200604,GB_Single
+num__minute_cos,0.0027485960659947065,GB_Single
+cat__team_lil uzi vert,0.002680320816418445,GB_Single
+num__minute_sin,0.0025964815117432887,GB_Single
+cat__minor_category_RAP/URBAN,0.0024877668864277253,GB_Single
+cat__team_joji,0.0022381820870140704,GB_Single
+num__temperature_2m_max,0.001912261339956898,GB_Single
+cat__team_ed sheeran,0.001754724798972768,GB_Single
+num__temperature_2m_min,0.0015654918857088604,GB_Single
+num__tier,0.001504381060780243,GB_Single
+cat__team_la clippers,0.0014758547728879353,GB_Single
+cat__team_cleveland cavaliers,0.0014063009841269562,GB_Single
+num__hour,0.0012370584922073988,GB_Single
+cat__team_utah jazz,0.0012239797094045742,GB_Single
+cat__time category_0-30 min before,0.0012111148180308652,GB_Single
+num__hour_cos,0.0011227421973289146,GB_Single
+cat__team_mary j blige,0.001051794055455713,GB_Single
+cat__team_rauw alejandro,0.000992230199002492,GB_Single
+num__5_minute_bucket,0.0009596488726558674,GB_Single
+cat__team_san antonio spurs,0.0008250996654744367,GB_Single
+cat__team_travis scott,0.0008052571379131297,GB_Single
+cat__team_indiana fever,0.0007979520740540225,GB_Single
+cat__team_childish gambino,0.0007979413067478919,GB_Single
+cat__team_doja cat,0.0006849467821354257,GB_Single
+cat__team_zach bryan,0.000656781409429737,GB_Single
+cat__team_ringling bros.3:00pm,0.0006235999344241786,GB_Single
+cat__team_russ,0.0006220037986297727,GB_Single
+num__day_cos,0.0005833437634344064,GB_Single
+num__day_sin,0.0005112596446928052,GB_Single
+cat__team_phoenix suns,0.0005034631541101684,GB_Single
+cat__minor_category_FOLK,0.0005011170071058078,GB_Single
+cat__team_j-hope,0.0004476285915676044,GB_Single
+cat__team_disney on ice 7:00pm,0.00044179935186579235,GB_Single
+cat__event_day_WED,0.0004324051763125659,GB_Single
+cat__minor_category_R & B,0.00040999606385666224,GB_Single
+cat__team_buju banton,0.0003643568406871279,GB_Single
+cat__time category_60-90 min before,0.0003174500482103864,GB_Single
+cat__team_ringling bros.7:00pm,0.0002928109802535471,GB_Single
+cat__team_hot wheels 12:30pm,0.00028820847411988314,GB_Single
+cat__team_don toliver,0.00028700845378555454,GB_Single
+cat__team_chicago sky,0.00027341723610952963,GB_Single
+cat__team_philadelphia 76ers,0.00025931701605119055,GB_Single
+cat__team_golden state warriors,0.00025728197481351863,GB_Single
+cat__minor_category_REGGAETON,0.00024700730488772763,GB_Single
+cat__team_wu-tang & nas,0.0002405124552433081,GB_Single
+cat__team_konstantinos argiros,0.00023972928392654392,GB_Single
+cat__team_the love hard tour,0.000209052372159722,GB_Single
+cat__event_day_THU,0.00019515656045471442,GB_Single
+cat__team_rod wave,0.00018848078266202645,GB_Single
+cat__minor_category_ETHNIC/FOREIGN,0.00018812268371827678,GB_Single
+cat__team_orlando magic,0.00018690427239121654,GB_Single
+cat__team_lauryn hill,0.0001717265404187646,GB_Single
+num__hour_sin,0.00016540737642182943,GB_Single
+"cat__team_tyler, the creator",0.00016455558547503048,GB_Single
+cat__team_detroit pistons,0.00016420933345624603,GB_Single
+cat__team_don omar,0.00015736757312956597,GB_Single
+cat__team_vybz kartel,0.0001431262957894874,GB_Single
+cat__team_we them ones,0.00014171691139669364,GB_Single
+cat__team_miami heat,0.00013747721996854644,GB_Single
+cat__team_new york knicks,0.0001362753921595781,GB_Single
+cat__team_charli xcx,0.0001281515558589622,GB_Single
+cat__minor_category_ICE SHOWS,0.0001255629909074698,GB_Single
+cat__team_iron maiden,0.00011374066545742901,GB_Single
+cat__minor_category_K-POP,0.0001055431005851525,GB_Single
+cat__event_day_MON,9.244407386922524e-05,GB_Single
+cat__team_los angeles sparks,9.1411783947171e-05,GB_Single
+cat__minor_category_ROCK/POP,9.103805657048562e-05,GB_Single
+cat__team_espn nit tip-off,8.098791391072573e-05,GB_Single
+cat__property_Brooklyn Nets,8.072584338450938e-05,GB_Single
+cat__team_washington mystics,7.309550607707564e-05,GB_Single
+cat__team_barak,7.27337568565098e-05,GB_Single
+cat__minor_category_HEAVY METAL,6.865066858666455e-05,GB_Single
+cat__team_denver nuggets,6.724683480838377e-05,GB_Single
+cat__team_sebastian maniscalco,6.36386692046622e-05,GB_Single
+cat__team_rock & roll hall of fame,5.950091152965238e-05,GB_Single
+cat__minor_category_NBA PRO BASKETBALL,5.917397431436627e-05,GB_Single
+cat__minor_category_SPECIAL ENTRY (UPSELL),5.5006361239277344e-05,GB_Single
+cat__team_madonna,5.332633193863292e-05,GB_Single
+cat__team_zhou shen,4.970618356781187e-05,GB_Single
+cat__minor_category_MOTORSPORTS/RACING,4.8575976074729554e-05,GB_Single
+num__property_minor_interaction,4.662223510145418e-05,GB_Single
+cat__team_konpa kingdom,4.5495034218189274e-05,GB_Single
+cat__team_justin timberlake,4.4743289916662734e-05,GB_Single
+cat__minor_category_CIRCUS,4.418411974934028e-05,GB_Single
+cat__team_minnesota timberwolves,4.219122855584108e-05,GB_Single
+cat__team_sabrina carpenter,3.9194191120760376e-05,GB_Single
+cat__team_chicago bulls,3.8542283150008355e-05,GB_Single
+cat__team_jordan brand classic 2024,3.7938683596201294e-05,GB_Single
+cat__team_linkin park,3.766678659510905e-05,GB_Single
+cat__time category_90+ min before,3.68563851662812e-05,GB_Single
+cat__minor_category_REGGAE,3.5164373076264466e-05,GB_Single
+cat__team_billie eilish,3.515817636892015e-05,GB_Single
+num__is_weekend,3.484637959809149e-05,GB_Single
+cat__team_salsa festival,3.272326555278147e-05,GB_Single
+cat__team_thirty seconds to mars,3.1328884944868336e-05,GB_Single
+cat__team_memphis grizzlies,2.8333742051281612e-05,GB_Single
+cat__minor_category_COMEDY,2.8230031328502525e-05,GB_Single
+cat__minor_category_POP,2.732398654199558e-05,GB_Single
+cat__team_las vegas aces,2.7060513123556495e-05,GB_Single
+cat__minor_category_LATIN MUSIC,2.7014764472076285e-05,GB_Single
+cat__team_milwaukee bucks,2.668872081140189e-05,GB_Single
+cat__minor_category_DANCE MUSIC/DANCE,2.5387595910004447e-05,GB_Single
+cat__event_day_SAT,2.487541965856558e-05,GB_Single
+cat__team_los angeles lakers,2.460789061532697e-05,GB_Single
+cat__team_chris brown,2.350273760710481e-05,GB_Single
+cat__team_usher,2.254161077191839e-05,GB_Single
+cat__team_new orleans pelicans,2.2145369209663594e-05,GB_Single
+cat__team_minnesota lynx,1.9948553826644622e-05,GB_Single
+cat__event_day_TUE,1.9204079783727335e-05,GB_Single
+cat__team_indiana pacers,1.84435061672808e-05,GB_Single
+cat__team_legends classic,1.7611602436790332e-05,GB_Single
+cat__team_bounty killer,1.752355277025762e-05,GB_Single
+cat__minor_category_BULL RIDING,1.7307418125016248e-05,GB_Single
+cat__team_oklahoma city thunder,1.7222326556174902e-05,GB_Single
+cat__team_jonas brothers,1.7175580528202493e-05,GB_Single
+cat__minor_category_CLASSICAL/VOCAL,1.7109071200165902e-05,GB_Single
+cat__team_aventura,1.6941444485951767e-05,GB_Single
+cat__team_dallas mavericks,1.6937864107317784e-05,GB_Single
+cat__team_atlanta hawks,1.6605723262560812e-05,GB_Single
+cat__team_the millennium tour,1.6557249124127846e-05,GB_Single
+cat__team_portland trail blazers,1.4596091444183847e-05,GB_Single
+cat__team_peso pluma,1.2683050608680409e-05,GB_Single
+cat__team_latto,1.2293656275513978e-05,GB_Single
+cat__minor_category_WRESTLING,1.1806660851479581e-05,GB_Single
+cat__team_atlantic 10,1.069459990036196e-05,GB_Single
+cat__team_disney on ice 4:00pm,1.0306423302719633e-05,GB_Single
+cat__team_seattle storm,1.00354188068989e-05,GB_Single
+cat__event_day_SUN,8.854995638609659e-06,GB_Single
+cat__team_kygo,8.68305397572406e-06,GB_Single
+cat__team_gold over america tour,8.188944626600123e-06,GB_Single
+cat__team_hans zimmer,8.155030541229365e-06,GB_Single
+cat__team_chalk talk  vip upgrade,8.093167496464398e-06,GB_Single
+cat__team_hot 97 winter jam,7.656058301646757e-06,GB_Single
+cat__time category_30-60 min after,4.250107877349141e-06,GB_Single
+cat__minor_category_OTHER,4.211700808376105e-06,GB_Single
+cat__team_kirk franklin,4.0776697251138e-06,GB_Single
+cat__team_atlanta dream,2.8716090271653006e-06,GB_Single
+cat__team_ringling bros.11:00 am,1.8440774402231898e-06,GB_Single
+cat__team_nick cave,1.5333749757519412e-06,GB_Single
+cat__team_reggae fest massive,1.1720773405906542e-06,GB_Single
+cat__team_ringling bros.6:00pm,1.1640475521788676e-06,GB_Single
+cat__team_wild n out,0.0,GB_Single
+cat__team_connecticut sun,0.0,GB_Single
+cat__team_womens champions classic,0.0,GB_Single
+cat__team_christian nodal,0.0,GB_Single
+cat__team_wwe smackdown,0.0,GB_Single
+cat__team_washington wizards,0.0,GB_Single
+cat__team_wwe friday night smackdow,0.0,GB_Single
+cat__team_dallas wings,0.0,GB_Single
+cat__team_wwe monday night raw,0.0,GB_Single
+cat__minor_category_GOSPEL,0.0,GB_Single
+cat__team_chayanne,0.0,GB_Single
+cat__team_charlotte hornets,0.0,GB_Single
+cat__property_Liberty,0.0,GB_Single
+"cat__team_4 legends, one stage",0.0,GB_Single
+cat__minor_category_WNBA PRO BASKETBALL,0.0,GB_Single
+cat__team_alejandro fernndez,0.0,GB_Single
+cat__team_ana gabriel,0.0,GB_Single
+cat__team_april fools comedy jam,0.0,GB_Single
+cat__team_arcangel,0.0,GB_Single
+cat__minor_category_PRO BASKETBALL,0.0,GB_Single
+cat__team_bad bunny,0.0,GB_Single
+cat__minor_category_HIGH SCHOOL BASKETBALL,0.0,GB_Single
+cat__team_disney on ice 11:00am,0.0,GB_Single
+cat__team_boston celtics,0.0,GB_Single
+cat__minor_category_COUNTRY,0.0,GB_Single
+cat__minor_category_COLLEGE BASKETBALL,0.0,GB_Single
+cat__minor_category_BOXING,0.0,GB_Single
+cat__team_depeche mode,0.0,GB_Single
+cat__team_kehlani - crash world tou,0.0,GB_Single
+cat__team_disney on ice 12:00pm,0.0,GB_Single
+cat__team_toronto raptors,0.0,GB_Single
+cat__team_nabc brooklyn showcase,0.0,GB_Single
+cat__team_monster jam 7:00pm,0.0,GB_Single
+cat__team_monster jam 1:00pm,0.0,GB_Single
+cat__team_missy elliott,0.0,GB_Single
+cat__team_houston rockets,0.0,GB_Single
+cat__team_mcdonalds all american,0.0,GB_Single
+cat__team_maxwell,0.0,GB_Single
+cat__team_maverick city music,0.0,GB_Single
+cat__team_j balvin,0.0,GB_Single
+cat__team_martin lawrence,0.0,GB_Single
+cat__team_marc anthony,0.0,GB_Single
+cat__team_janet jackson,0.0,GB_Single
+cat__team_maccabi ra anana,0.0,GB_Single
+cat__team_luis miguel,0.0,GB_Single
+cat__team_jhene aiko,0.0,GB_Single
+cat__team_liu mens basketball,0.0,GB_Single
+cat__team_jj lin,0.0,GB_Single
+cat__team_joker xue,0.0,GB_Single
+cat__team_lil baby,0.0,GB_Single
+cat__team_ladies night r&b super ja,0.0,GB_Single
+cat__team_jonathan lee,0.0,GB_Single
+cat__team_kacey musgraves,0.0,GB_Single
+cat__team_katt williams,0.0,GB_Single
+cat__team_hot wheels 7:30pm,0.0,GB_Single
+cat__team_nicki minaj,0.0,GB_Single
+cat__team_pbc davis vs. roach,0.0,GB_Single
+cat__team_gold squad vip upgrade,0.0,GB_Single
+cat__team_disney on ice 3:00pm,0.0,GB_Single
+cat__team_sza,0.0,GB_Single
+cat__team_subtronics,0.0,GB_Single
+cat__team_sprite jam fest,0.0,GB_Single
+cat__team_sexyy red,0.0,GB_Single
+"cat__team_enrique, pitbull, ricky",0.0,GB_Single
+cat__team_keyshia cole,0.0,GB_Single
+cat__team_future,0.0,GB_Single
+cat__team_g.e.m.,0.0,GB_Single
+cat__team_romeo santos,0.0,GB_Single
+cat__team_golden state valkyries,0.0,GB_Single
+cat__team_pbr: teams,0.0,GB_Single
+cat__team_grupo frontera,0.0,GB_Single
+cat__team_ringling bros.2:00pm,0.0,GB_Single
+cat__team_reggae love fest,0.0,GB_Single
+cat__team_haney vs garcia,0.0,GB_Single
+cat__team_r&b music experience ny,0.0,GB_Single
+cat__team_r&b forever tour,0.0,GB_Single
+cat__team_power smashers 5:00 pm,0.0,GB_Single
+cat__team_power smashers 10:00 am,0.0,GB_Single
+cat__team_phoenix mercury,0.0,GB_Single
+cat__team_harlem globetrotters,0.0,GB_Single
+cat__team_sacramento kings,0.0,GB_Single
+num__queue_slope_3,762.0,LGB_Single
+num__queue_mean_3,719.0,LGB_Single
+num__log_queue_max10,308.0,LGB_Single
+num__relative start (minutes),204.0,LGB_Single
+num__count,100.0,LGB_Single
+num__precipitation_sum,62.0,LGB_Single
+num__minute_sq,58.0,LGB_Single
+num__hour,41.0,LGB_Single
+num__day_sin,37.0,LGB_Single
+num__temperature_2m_min,34.0,LGB_Single
+cat__team_chase atlantic,34.0,LGB_Single
+num__minute_sin,33.0,LGB_Single
+cat__time category_30-60 min before,32.0,LGB_Single
+cat__team_lil uzi vert,27.0,LGB_Single
+cat__team_joji,26.0,LGB_Single
+num__temperature_2m_max,26.0,LGB_Single
+num__minute_cos,26.0,LGB_Single
+cat__team_twenty one pilots,26.0,LGB_Single
+cat__team_cleveland cavaliers,25.0,LGB_Single
+cat__minor_category_RAP/URBAN,21.0,LGB_Single
+num__minute_minor_interaction,20.0,LGB_Single
+cat__team_childish gambino,17.0,LGB_Single
+cat__time category_0-30 min before,17.0,LGB_Single
+cat__team_ed sheeran,15.0,LGB_Single
+cat__team_la clippers,15.0,LGB_Single
+cat__team_russ,12.0,LGB_Single
+cat__team_indiana fever,12.0,LGB_Single
+cat__team_utah jazz,12.0,LGB_Single
+cat__team_san antonio spurs,12.0,LGB_Single
+cat__team_we them ones,11.0,LGB_Single
+cat__team_mary j blige,11.0,LGB_Single
+cat__team_zach bryan,11.0,LGB_Single
+num__day_cos,11.0,LGB_Single
+cat__team_disney on ice 7:00pm,10.0,LGB_Single
+cat__team_doja cat,8.0,LGB_Single
+cat__team_buju banton,8.0,LGB_Single
+cat__team_rod wave,7.0,LGB_Single
+cat__minor_category_ETHNIC/FOREIGN,6.0,LGB_Single
+cat__team_konstantinos argiros,6.0,LGB_Single
+cat__minor_category_LATIN MUSIC,6.0,LGB_Single
+cat__team_phoenix suns,5.0,LGB_Single
+cat__team_j-hope,5.0,LGB_Single
+cat__team_ringling bros.3:00pm,5.0,LGB_Single
+cat__minor_category_R & B,5.0,LGB_Single
+num__property_minor_interaction,4.0,LGB_Single
+cat__minor_category_REGGAETON,4.0,LGB_Single
+cat__team_milwaukee bucks,3.0,LGB_Single
+cat__team_golden state warriors,3.0,LGB_Single
+num__hour_sin,3.0,LGB_Single
+cat__time category_60-90 min before,3.0,LGB_Single
+cat__team_bad bunny,3.0,LGB_Single
+cat__team_vybz kartel,3.0,LGB_Single
+num__tier,3.0,LGB_Single
+cat__minor_category_COMEDY,2.0,LGB_Single
+cat__team_wu-tang & nas,2.0,LGB_Single
+cat__team_hot wheels 12:30pm,2.0,LGB_Single
+cat__team_latto,2.0,LGB_Single
+cat__team_miami heat,2.0,LGB_Single
+cat__team_atlantic 10,2.0,LGB_Single
+cat__team_detroit pistons,2.0,LGB_Single
+cat__team_don omar,2.0,LGB_Single
+cat__team_ringling bros.7:00pm,2.0,LGB_Single
+num__is_weekend,2.0,LGB_Single
+cat__team_orlando magic,1.0,LGB_Single
+cat__team_the love hard tour,1.0,LGB_Single
+cat__team_washington mystics,1.0,LGB_Single
+cat__team_hot 97 winter jam,1.0,LGB_Single
+cat__team_hot wheels 7:30pm,1.0,LGB_Single
+cat__event_day_TUE,1.0,LGB_Single
+cat__team_atlanta dream,1.0,LGB_Single
+cat__team_madonna,1.0,LGB_Single
+cat__team_rauw alejandro,1.0,LGB_Single
+cat__minor_category_POP,1.0,LGB_Single
+cat__team_new york knicks,1.0,LGB_Single
+cat__minor_category_NBA PRO BASKETBALL,1.0,LGB_Single
+cat__team_chicago sky,1.0,LGB_Single
+cat__team_christian nodal,1.0,LGB_Single
+cat__minor_category_ROCK/POP,1.0,LGB_Single
+cat__team_rock & roll hall of fame,0.0,LGB_Single
+cat__team_r&b music experience ny,0.0,LGB_Single
+cat__team_seattle storm,0.0,LGB_Single
+cat__team_pbr: teams,0.0,LGB_Single
+cat__team_ringling bros.11:00 am,0.0,LGB_Single
+cat__team_ringling bros.6:00pm,0.0,LGB_Single
+cat__team_salsa festival,0.0,LGB_Single
+cat__team_reggae love fest,0.0,LGB_Single
+cat__team_sacramento kings,0.0,LGB_Single
+cat__team_sabrina carpenter,0.0,LGB_Single
+cat__team_peso pluma,0.0,LGB_Single
+cat__team_philadelphia 76ers,0.0,LGB_Single
+cat__team_phoenix mercury,0.0,LGB_Single
+cat__team_romeo santos,0.0,LGB_Single
+cat__team_sexyy red,0.0,LGB_Single
+cat__team_ringling bros.2:00pm,0.0,LGB_Single
+cat__team_portland trail blazers,0.0,LGB_Single
+cat__team_reggae fest massive,0.0,LGB_Single
+cat__team_power smashers 10:00 am,0.0,LGB_Single
+cat__team_power smashers 5:00 pm,0.0,LGB_Single
+cat__team_r&b forever tour,0.0,LGB_Single
+cat__team_sebastian maniscalco,0.0,LGB_Single
+cat__property_Brooklyn Nets,0.0,LGB_Single
+cat__team_sprite jam fest,0.0,LGB_Single
+cat__minor_category_GOSPEL,0.0,LGB_Single
+cat__minor_category_BULL RIDING,0.0,LGB_Single
+cat__minor_category_CIRCUS,0.0,LGB_Single
+cat__minor_category_CLASSICAL/VOCAL,0.0,LGB_Single
+cat__minor_category_COLLEGE BASKETBALL,0.0,LGB_Single
+cat__minor_category_COUNTRY,0.0,LGB_Single
+cat__minor_category_DANCE MUSIC/DANCE,0.0,LGB_Single
+cat__minor_category_FOLK,0.0,LGB_Single
+cat__minor_category_SPECIAL ENTRY (UPSELL),0.0,LGB_Single
+cat__minor_category_BOXING,0.0,LGB_Single
+cat__minor_category_HEAVY METAL,0.0,LGB_Single
+cat__minor_category_HIGH SCHOOL BASKETBALL,0.0,LGB_Single
+cat__minor_category_ICE SHOWS,0.0,LGB_Single
+cat__minor_category_K-POP,0.0,LGB_Single
+cat__minor_category_MOTORSPORTS/RACING,0.0,LGB_Single
+cat__minor_category_OTHER,0.0,LGB_Single
+cat__minor_category_PRO BASKETBALL,0.0,LGB_Single
+cat__minor_category_WNBA PRO BASKETBALL,0.0,LGB_Single
+cat__team_zhou shen,0.0,LGB_Single
+cat__team_subtronics,0.0,LGB_Single
+"cat__team_tyler, the creator",0.0,LGB_Single
+cat__team_sza,0.0,LGB_Single
+cat__team_the millennium tour,0.0,LGB_Single
+cat__team_thirty seconds to mars,0.0,LGB_Single
+cat__team_toronto raptors,0.0,LGB_Single
+cat__time category_30-60 min after,0.0,LGB_Single
+cat__team_travis scott,0.0,LGB_Single
+cat__property_Liberty,0.0,LGB_Single
+cat__team_usher,0.0,LGB_Single
+cat__team_wwe smackdown,0.0,LGB_Single
+cat__minor_category_REGGAE,0.0,LGB_Single
+cat__team_washington wizards,0.0,LGB_Single
+cat__minor_category_WRESTLING,0.0,LGB_Single
+cat__team_wild n out,0.0,LGB_Single
+cat__team_womens champions classic,0.0,LGB_Single
+cat__team_wwe friday night smackdow,0.0,LGB_Single
+cat__team_wwe monday night raw,0.0,LGB_Single
+cat__team_pbc davis vs. roach,0.0,LGB_Single
+cat__team_los angeles lakers,0.0,LGB_Single
+cat__team_oklahoma city thunder,0.0,LGB_Single
+cat__team_chayanne,0.0,LGB_Single
+cat__team_chris brown,0.0,LGB_Single
+cat__team_connecticut sun,0.0,LGB_Single
+cat__team_dallas mavericks,0.0,LGB_Single
+cat__team_dallas wings,0.0,LGB_Single
+cat__team_denver nuggets,0.0,LGB_Single
+cat__team_depeche mode,0.0,LGB_Single
+cat__team_disney on ice 11:00am,0.0,LGB_Single
+cat__team_disney on ice 12:00pm,0.0,LGB_Single
+cat__team_disney on ice 3:00pm,0.0,LGB_Single
+cat__team_disney on ice 4:00pm,0.0,LGB_Single
+cat__team_don toliver,0.0,LGB_Single
+"cat__team_enrique, pitbull, ricky",0.0,LGB_Single
+cat__team_espn nit tip-off,0.0,LGB_Single
+cat__team_future,0.0,LGB_Single
+cat__team_g.e.m.,0.0,LGB_Single
+cat__team_gold over america tour,0.0,LGB_Single
+cat__team_gold squad vip upgrade,0.0,LGB_Single
+cat__team_golden state valkyries,0.0,LGB_Single
+cat__team_grupo frontera,0.0,LGB_Single
+cat__team_chicago bulls,0.0,LGB_Single
+cat__team_charlotte hornets,0.0,LGB_Single
+cat__team_hans zimmer,0.0,LGB_Single
+cat__team_charli xcx,0.0,LGB_Single
+num__5_minute_bucket,0.0,LGB_Single
+num__hour_cos,0.0,LGB_Single
+cat__event_day_MON,0.0,LGB_Single
+cat__event_day_SAT,0.0,LGB_Single
+cat__event_day_SUN,0.0,LGB_Single
+cat__event_day_THU,0.0,LGB_Single
+cat__event_day_WED,0.0,LGB_Single
+"cat__team_4 legends, one stage",0.0,LGB_Single
+cat__team_alejandro fernndez,0.0,LGB_Single
+cat__team_ana gabriel,0.0,LGB_Single
+cat__team_april fools comedy jam,0.0,LGB_Single
+cat__team_arcangel,0.0,LGB_Single
+cat__team_atlanta hawks,0.0,LGB_Single
+cat__team_aventura,0.0,LGB_Single
+cat__team_barak,0.0,LGB_Single
+cat__team_billie eilish,0.0,LGB_Single
+cat__team_boston celtics,0.0,LGB_Single
+cat__team_bounty killer,0.0,LGB_Single
+cat__team_chalk talk  vip upgrade,0.0,LGB_Single
+cat__team_haney vs garcia,0.0,LGB_Single
+cat__team_harlem globetrotters,0.0,LGB_Single
+cat__team_nicki minaj,0.0,LGB_Single
+cat__team_legends classic,0.0,LGB_Single
+cat__team_linkin park,0.0,LGB_Single
+cat__team_liu mens basketball,0.0,LGB_Single
+cat__team_los angeles sparks,0.0,LGB_Single
+cat__team_luis miguel,0.0,LGB_Single
+cat__team_maccabi ra anana,0.0,LGB_Single
+cat__team_marc anthony,0.0,LGB_Single
+cat__team_martin lawrence,0.0,LGB_Single
+cat__team_maverick city music,0.0,LGB_Single
+cat__team_maxwell,0.0,LGB_Single
+cat__team_mcdonalds all american,0.0,LGB_Single
+cat__team_memphis grizzlies,0.0,LGB_Single
+cat__team_minnesota lynx,0.0,LGB_Single
+cat__team_minnesota timberwolves,0.0,LGB_Single
+cat__team_missy elliott,0.0,LGB_Single
+cat__team_monster jam 1:00pm,0.0,LGB_Single
+cat__team_monster jam 7:00pm,0.0,LGB_Single
+cat__team_nabc brooklyn showcase,0.0,LGB_Single
+cat__team_new orleans pelicans,0.0,LGB_Single
+cat__team_nick cave,0.0,LGB_Single
+cat__team_lil baby,0.0,LGB_Single
+cat__team_lauryn hill,0.0,LGB_Single
+cat__team_houston rockets,0.0,LGB_Single
+cat__team_las vegas aces,0.0,LGB_Single
+cat__team_indiana pacers,0.0,LGB_Single
+cat__team_iron maiden,0.0,LGB_Single
+cat__team_j balvin,0.0,LGB_Single
+cat__team_janet jackson,0.0,LGB_Single
+cat__team_jhene aiko,0.0,LGB_Single
+cat__team_jj lin,0.0,LGB_Single
+cat__team_joker xue,0.0,LGB_Single
+cat__team_jonas brothers,0.0,LGB_Single
+cat__team_jonathan lee,0.0,LGB_Single
+cat__team_jordan brand classic 2024,0.0,LGB_Single
+cat__team_justin timberlake,0.0,LGB_Single
+cat__team_kacey musgraves,0.0,LGB_Single
+cat__team_katt williams,0.0,LGB_Single
+cat__team_kehlani - crash world tou,0.0,LGB_Single
+cat__team_keyshia cole,0.0,LGB_Single
+cat__team_kirk franklin,0.0,LGB_Single
+cat__team_konpa kingdom,0.0,LGB_Single
+cat__team_kygo,0.0,LGB_Single
+cat__team_ladies night r&b super ja,0.0,LGB_Single
+cat__time category_90+ min before,0.0,LGB_Single
+num__queue_slope_3,0.06498802453279495,XGB_Single
+num__queue_mean_3,0.05261947214603424,XGB_Single
+num__log_queue_max10,0.028769709169864655,XGB_Single
+cat__team_rauw alejandro,0.02170582301914692,XGB_Single
+cat__time category_30-60 min before,0.02161211147904396,XGB_Single
+cat__team_zach bryan,0.01979224570095539,XGB_Single
+num__hour,0.019106710329651833,XGB_Single
+cat__team_joji,0.019095757976174355,XGB_Single
+cat__team_the love hard tour,0.01779908314347267,XGB_Single
+cat__team_utah jazz,0.017021767795085907,XGB_Single
+cat__team_san antonio spurs,0.016681507229804993,XGB_Single
+cat__team_chase atlantic,0.0163725595921278,XGB_Single
+cat__team_lil uzi vert,0.01588446833193302,XGB_Single
+cat__team_twenty one pilots,0.015770865604281425,XGB_Single
+cat__team_la clippers,0.01576288416981697,XGB_Single
+cat__team_j-hope,0.015275992453098297,XGB_Single
+cat__team_wwe monday night raw,0.015115521848201752,XGB_Single
+cat__minor_category_R & B,0.01458606868982315,XGB_Single
+cat__team_g.e.m.,0.014568117447197437,XGB_Single
+num__tier,0.013836984522640705,XGB_Single
+cat__team_doja cat,0.013569694012403488,XGB_Single
+cat__team_russ,0.013109290041029453,XGB_Single
+cat__time category_0-30 min before,0.012655621394515038,XGB_Single
+cat__team_hot wheels 12:30pm,0.012556991539895535,XGB_Single
+cat__minor_category_RAP/URBAN,0.012058248743414879,XGB_Single
+cat__team_childish gambino,0.01189672015607357,XGB_Single
+cat__team_wu-tang & nas,0.011435968801379204,XGB_Single
+cat__team_j balvin,0.01106491032987833,XGB_Single
+num__hour_sin,0.01096523180603981,XGB_Single
+cat__minor_category_CIRCUS,0.010933641344308853,XGB_Single
+num__count,0.010924342088401318,XGB_Single
+cat__team_konstantinos argiros,0.010642264038324356,XGB_Single
+cat__team_ed sheeran,0.010498796589672565,XGB_Single
+cat__minor_category_ETHNIC/FOREIGN,0.010408714413642883,XGB_Single
+cat__minor_category_COLLEGE BASKETBALL,0.010354689322412014,XGB_Single
+cat__team_buju banton,0.010219745337963104,XGB_Single
+cat__team_don toliver,0.009519556537270546,XGB_Single
+num__property_minor_interaction,0.009436022490262985,XGB_Single
+num__temperature_2m_max,0.009352791123092175,XGB_Single
+cat__team_cleveland cavaliers,0.00895691942423582,XGB_Single
+cat__team_vybz kartel,0.00849749706685543,XGB_Single
+cat__team_indiana fever,0.008494535461068153,XGB_Single
+cat__team_phoenix suns,0.00843671802431345,XGB_Single
+cat__team_orlando magic,0.008156726136803627,XGB_Single
+cat__team_chicago bulls,0.008008873090147972,XGB_Single
+num__precipitation_sum,0.007959043607115746,XGB_Single
+cat__team_washington wizards,0.007936527952551842,XGB_Single
+cat__minor_category_MOTORSPORTS/RACING,0.007874281145632267,XGB_Single
+cat__team_ringling bros.3:00pm,0.0077049448154866695,XGB_Single
+num__minute_sq,0.0073572928085923195,XGB_Single
+num__temperature_2m_min,0.007270473055541515,XGB_Single
+cat__team_detroit pistons,0.007239827886223793,XGB_Single
+cat__event_day_TUE,0.006955976597964764,XGB_Single
+num__day_sin,0.006724740378558636,XGB_Single
+cat__team_washington mystics,0.006704667583107948,XGB_Single
+cat__minor_category_REGGAETON,0.006401765160262585,XGB_Single
+cat__team_mary j blige,0.006301399320363998,XGB_Single
+cat__team_los angeles sparks,0.0061670574359595776,XGB_Single
+num__minute_minor_interaction,0.0060643781907856464,XGB_Single
+cat__team_golden state warriors,0.005700299516320229,XGB_Single
+cat__team_nicki minaj,0.00562282232567668,XGB_Single
+"cat__team_tyler, the creator",0.005571797490119934,XGB_Single
+cat__team_sabrina carpenter,0.005298858042806387,XGB_Single
+cat__team_lauryn hill,0.005221997853368521,XGB_Single
+num__relative start (minutes),0.005104605108499527,XGB_Single
+cat__minor_category_ROCK/POP,0.005097789224237204,XGB_Single
+cat__team_connecticut sun,0.005097025074064732,XGB_Single
+cat__team_we them ones,0.004583185538649559,XGB_Single
+cat__team_sebastian maniscalco,0.004497479181736708,XGB_Single
+cat__team_wild n out,0.004435380455106497,XGB_Single
+cat__team_new york knicks,0.004120543133467436,XGB_Single
+cat__team_atlanta dream,0.0040846629999578,XGB_Single
+num__minute_cos,0.00407878402620554,XGB_Single
+cat__team_hot wheels 7:30pm,0.004026658367365599,XGB_Single
+cat__team_bounty killer,0.003965861164033413,XGB_Single
+cat__team_disney on ice 7:00pm,0.003963167313486338,XGB_Single
+cat__team_maccabi ra anana,0.003914855886250734,XGB_Single
+cat__team_phoenix mercury,0.003879873314872384,XGB_Single
+cat__team_atlanta hawks,0.003837697906419635,XGB_Single
+cat__team_salsa festival,0.0037847741041332483,XGB_Single
+cat__team_sacramento kings,0.0037652708124369383,XGB_Single
+num__minute_sin,0.003735757665708661,XGB_Single
+cat__team_marc anthony,0.00367564894258976,XGB_Single
+cat__team_dallas wings,0.0035012722946703434,XGB_Single
+cat__team_rock & roll hall of fame,0.0034482432529330254,XGB_Single
+cat__minor_category_BOXING,0.003395926207304001,XGB_Single
+cat__team_charli xcx,0.003346506040543318,XGB_Single
+cat__team_barak,0.0033055730164051056,XGB_Single
+cat__team_kirk franklin,0.0032620197162032127,XGB_Single
+cat__team_april fools comedy jam,0.0031495881266891956,XGB_Single
+cat__team_jonas brothers,0.0031465652864426374,XGB_Single
+cat__team_rod wave,0.0030791116878390312,XGB_Single
+cat__minor_category_LATIN MUSIC,0.003009161679074168,XGB_Single
+cat__team_nabc brooklyn showcase,0.0030008936300873756,XGB_Single
+cat__team_seattle storm,0.0029551212210208178,XGB_Single
+cat__team_don omar,0.00288409530185163,XGB_Single
+cat__team_ringling bros.7:00pm,0.0027320205699652433,XGB_Single
+cat__team_thirty seconds to mars,0.0026962654665112495,XGB_Single
+cat__team_kygo,0.0026886924169957638,XGB_Single
+num__day_cos,0.0026417672634124756,XGB_Single
+cat__team_madonna,0.0024308275897055864,XGB_Single
+cat__team_philadelphia 76ers,0.0023793205618858337,XGB_Single
+cat__team_sexyy red,0.002368793124333024,XGB_Single
+cat__team_milwaukee bucks,0.00231452495791018,XGB_Single
+cat__team_chris brown,0.00229895138181746,XGB_Single
+cat__team_indiana pacers,0.0022871210239827633,XGB_Single
+cat__team_christian nodal,0.00215563690289855,XGB_Single
+num__is_weekend,0.002136219060048461,XGB_Single
+cat__team_luis miguel,0.0021212524734437466,XGB_Single
+cat__minor_category_SPECIAL ENTRY (UPSELL),0.00209995754994452,XGB_Single
+cat__team_peso pluma,0.002092135837301612,XGB_Single
+cat__team_charlotte hornets,0.001958132954314351,XGB_Single
+cat__team_haney vs garcia,0.0019518013577908278,XGB_Single
+cat__team_reggae fest massive,0.0018075616098940372,XGB_Single
+cat__team_aventura,0.0017584721790626645,XGB_Single
+cat__team_monster jam 7:00pm,0.0017162435688078403,XGB_Single
+cat__minor_category_COMEDY,0.001637686393223703,XGB_Single
+cat__team_arcangel,0.0013549212599173188,XGB_Single
+cat__minor_category_PRO BASKETBALL,0.001281969016417861,XGB_Single
+cat__team_pbr: teams,0.0012205597013235092,XGB_Single
+cat__team_latto,0.001014609239064157,XGB_Single
+cat__team_dallas mavericks,0.0010120848892256618,XGB_Single
+cat__team_justin timberlake,0.0007054245215840638,XGB_Single
+cat__team_los angeles lakers,0.0006992084672674537,XGB_Single
+cat__team_new orleans pelicans,0.0005177324637770653,XGB_Single
+cat__team_konpa kingdom,0.0001886433456093073,XGB_Single
+cat__team_maverick city music,0.0,XGB_Single
+cat__team_wwe smackdown,0.0,XGB_Single
+cat__minor_category_DANCE MUSIC/DANCE,0.0,XGB_Single
+cat__minor_category_COUNTRY,0.0,XGB_Single
+cat__team_bad bunny,0.0,XGB_Single
+cat__team_billie eilish,0.0,XGB_Single
+cat__minor_category_CLASSICAL/VOCAL,0.0,XGB_Single
+cat__team_boston celtics,0.0,XGB_Single
+cat__minor_category_BULL RIDING,0.0,XGB_Single
+cat__team_chalk talk  vip upgrade,0.0,XGB_Single
+cat__team_zhou shen,0.0,XGB_Single
+cat__team_chayanne,0.0,XGB_Single
+cat__team_chicago sky,0.0,XGB_Single
+cat__minor_category_FOLK,0.0,XGB_Single
+cat__team_wwe friday night smackdow,0.0,XGB_Single
+cat__team_denver nuggets,0.0,XGB_Single
+cat__team_womens champions classic,0.0,XGB_Single
+cat__team_depeche mode,0.0,XGB_Single
+cat__team_disney on ice 11:00am,0.0,XGB_Single
+cat__team_disney on ice 12:00pm,0.0,XGB_Single
+cat__team_disney on ice 3:00pm,0.0,XGB_Single
+cat__team_disney on ice 4:00pm,0.0,XGB_Single
+"cat__team_enrique, pitbull, ricky",0.0,XGB_Single
+cat__team_usher,0.0,XGB_Single
+cat__team_espn nit tip-off,0.0,XGB_Single
+cat__team_atlantic 10,0.0,XGB_Single
+cat__minor_category_HEAVY METAL,0.0,XGB_Single
+cat__minor_category_GOSPEL,0.0,XGB_Single
+cat__team_travis scott,0.0,XGB_Single
+cat__time category_60-90 min before,0.0,XGB_Single
+num__5_minute_bucket,0.0,XGB_Single
+cat__time category_30-60 min after,0.0,XGB_Single
+num__hour_cos,0.0,XGB_Single
+cat__property_Liberty,0.0,XGB_Single
+cat__property_Brooklyn Nets,0.0,XGB_Single
+cat__minor_category_WRESTLING,0.0,XGB_Single
+cat__minor_category_WNBA PRO BASKETBALL,0.0,XGB_Single
+cat__event_day_MON,0.0,XGB_Single
+cat__event_day_SAT,0.0,XGB_Single
+cat__event_day_SUN,0.0,XGB_Single
+cat__minor_category_REGGAE,0.0,XGB_Single
+cat__event_day_THU,0.0,XGB_Single
+cat__event_day_WED,0.0,XGB_Single
+"cat__team_4 legends, one stage",0.0,XGB_Single
+cat__minor_category_POP,0.0,XGB_Single
+cat__minor_category_OTHER,0.0,XGB_Single
+cat__minor_category_NBA PRO BASKETBALL,0.0,XGB_Single
+cat__team_alejandro fernndez,0.0,XGB_Single
+cat__team_ana gabriel,0.0,XGB_Single
+cat__minor_category_K-POP,0.0,XGB_Single
+cat__minor_category_ICE SHOWS,0.0,XGB_Single
+cat__minor_category_HIGH SCHOOL BASKETBALL,0.0,XGB_Single
+cat__team_future,0.0,XGB_Single
+cat__team_toronto raptors,0.0,XGB_Single
+cat__team_maxwell,0.0,XGB_Single
+cat__team_gold over america tour,0.0,XGB_Single
+cat__team_power smashers 5:00 pm,0.0,XGB_Single
+cat__team_power smashers 10:00 am,0.0,XGB_Single
+cat__team_portland trail blazers,0.0,XGB_Single
+cat__team_katt williams,0.0,XGB_Single
+cat__team_kehlani - crash world tou,0.0,XGB_Single
+cat__team_keyshia cole,0.0,XGB_Single
+cat__team_ladies night r&b super ja,0.0,XGB_Single
+cat__team_pbc davis vs. roach,0.0,XGB_Single
+cat__team_las vegas aces,0.0,XGB_Single
+cat__team_oklahoma city thunder,0.0,XGB_Single
+cat__team_legends classic,0.0,XGB_Single
+cat__team_nick cave,0.0,XGB_Single
+cat__team_lil baby,0.0,XGB_Single
+cat__team_linkin park,0.0,XGB_Single
+cat__team_liu mens basketball,0.0,XGB_Single
+cat__team_monster jam 1:00pm,0.0,XGB_Single
+cat__team_missy elliott,0.0,XGB_Single
+cat__team_minnesota timberwolves,0.0,XGB_Single
+cat__team_minnesota lynx,0.0,XGB_Single
+cat__team_martin lawrence,0.0,XGB_Single
+cat__team_miami heat,0.0,XGB_Single
+cat__team_memphis grizzlies,0.0,XGB_Single
+cat__team_mcdonalds all american,0.0,XGB_Single
+cat__team_r&b forever tour,0.0,XGB_Single
+cat__team_r&b music experience ny,0.0,XGB_Single
+cat__team_kacey musgraves,0.0,XGB_Single
+cat__team_houston rockets,0.0,XGB_Single
+cat__team_the millennium tour,0.0,XGB_Single
+cat__team_gold squad vip upgrade,0.0,XGB_Single
+cat__team_sza,0.0,XGB_Single
+cat__team_subtronics,0.0,XGB_Single
+cat__team_sprite jam fest,0.0,XGB_Single
+cat__team_golden state valkyries,0.0,XGB_Single
+cat__team_grupo frontera,0.0,XGB_Single
+cat__team_hans zimmer,0.0,XGB_Single
+cat__team_harlem globetrotters,0.0,XGB_Single
+cat__team_hot 97 winter jam,0.0,XGB_Single
+cat__team_iron maiden,0.0,XGB_Single
+cat__team_jordan brand classic 2024,0.0,XGB_Single
+cat__team_janet jackson,0.0,XGB_Single
+cat__team_romeo santos,0.0,XGB_Single
+cat__team_jhene aiko,0.0,XGB_Single
+cat__team_jj lin,0.0,XGB_Single
+cat__team_joker xue,0.0,XGB_Single
+cat__team_ringling bros.6:00pm,0.0,XGB_Single
+cat__team_jonathan lee,0.0,XGB_Single
+cat__team_ringling bros.2:00pm,0.0,XGB_Single
+cat__team_ringling bros.11:00 am,0.0,XGB_Single
+cat__team_reggae love fest,0.0,XGB_Single
+cat__time category_90+ min before,0.0,XGB_Single
+num__queue_slope_3,0.3419910819045742,GB_Multi
+num__queue_mean_3,0.29552950944168127,GB_Multi
+num__log_queue_max10,0.10993379317169649,GB_Multi
+num__count,0.01873472308314573,GB_Multi
+cat__team_lil uzi vert,0.015862560115525687,GB_Multi
+num__temperature_2m_min,0.011618616144728096,GB_Multi
+num__temperature_2m_max,0.010725475568625676,GB_Multi
+cat__team_chase atlantic,0.009532533059218399,GB_Multi
+num__precipitation_sum,0.008178091830896324,GB_Multi
+cat__team_la clippers,0.0070976278497658606,GB_Multi
+cat__team_joji,0.0064572542644831645,GB_Multi
+cat__team_twenty one pilots,0.00616082559317633,GB_Multi
+cat__team_childish gambino,0.005529587588472742,GB_Multi
+num__minute_minor_interaction,0.005280740666700516,GB_Multi
+num__tier,0.004949073835547494,GB_Multi
+num__day_sin,0.004204240799534419,GB_Multi
+cat__team_russ,0.004059799005273697,GB_Multi
+cat__team_ed sheeran,0.003671075533074182,GB_Multi
+cat__team_buju banton,0.0036660996439145574,GB_Multi
+cat__team_utah jazz,0.00350151979637436,GB_Multi
+cat__team_don toliver,0.0033533119580183035,GB_Multi
+cat__team_ringling bros.3:00pm,0.003200383352390928,GB_Multi
+cat__team_cleveland cavaliers,0.0030884446092373672,GB_Multi
+num__day_cos,0.002841825536501256,GB_Multi
+cat__team_g.e.m.,0.002841731873564348,GB_Multi
+cat__team_doja cat,0.002448798136666158,GB_Multi
+cat__team_mary j blige,0.0023565948854237097,GB_Multi
+num__hour_sin,0.0022937719903943273,GB_Multi
+cat__team_oklahoma city thunder,0.0021451622435174652,GB_Multi
+cat__team_rod wave,0.0021323630452190585,GB_Multi
+cat__team_sebastian maniscalco,0.001979454567845107,GB_Multi
+cat__minor_category_K-POP,0.0019677781388448465,GB_Multi
+num__hour,0.001926077953668084,GB_Multi
+cat__team_the love hard tour,0.0019246930784199557,GB_Multi
+cat__team_travis scott,0.001915992762417027,GB_Multi
+num__hour_cos,0.0018932779688937106,GB_Multi
+cat__team_j-hope,0.0018834109202942517,GB_Multi
+cat__team_san antonio spurs,0.0018628286848278639,GB_Multi
+cat__team_vybz kartel,0.001682332064678708,GB_Multi
+cat__team_hans zimmer,0.001627933760201042,GB_Multi
+cat__team_indiana fever,0.0016087608802035343,GB_Multi
+cat__team_j balvin,0.0015465836721950484,GB_Multi
+cat__minor_category_CLASSICAL/VOCAL,0.001530647033255436,GB_Multi
+cat__team_disney on ice 7:00pm,0.001529853929524407,GB_Multi
+cat__team_orlando magic,0.0015278792285015501,GB_Multi
+cat__team_don omar,0.0014848503646738838,GB_Multi
+cat__team_hot wheels 12:30pm,0.001348192007028494,GB_Multi
+cat__team_golden state warriors,0.001345946519913642,GB_Multi
+cat__team_milwaukee bucks,0.0013377788135081066,GB_Multi
+cat__team_portland trail blazers,0.001258623385133213,GB_Multi
+cat__team_konstantinos argiros,0.0012319883808223852,GB_Multi
+cat__event_day_SAT,0.0012062774829551272,GB_Multi
+cat__team_chicago sky,0.0011963761611151094,GB_Multi
+cat__team_monster jam 7:00pm,0.0011906678682294212,GB_Multi
+cat__team_zhou shen,0.0011600813114445998,GB_Multi
+cat__team_nick cave,0.001156382293290227,GB_Multi
+cat__team_detroit pistons,0.0010971412490361958,GB_Multi
+cat__team_charli xcx,0.001089670792266203,GB_Multi
+cat__team_jj lin,0.0010733406369601629,GB_Multi
+cat__team_chris brown,0.0010475886933659958,GB_Multi
+cat__team_chicago bulls,0.0010379116891364845,GB_Multi
+cat__event_day_WED,0.0010333996960974884,GB_Multi
+cat__event_day_THU,0.0010270549709120475,GB_Multi
+num__property_minor_interaction,0.0010039677967301258,GB_Multi
+cat__team_phoenix suns,0.0009993657820813165,GB_Multi
+cat__team_boston celtics,0.0009908843535764756,GB_Multi
+cat__minor_category_RAP/URBAN,0.0009836655186578258,GB_Multi
+cat__team_latto,0.0009676461508732956,GB_Multi
+cat__minor_category_POP,0.0009581919826668237,GB_Multi
+num__is_weekend,0.0009536402988105516,GB_Multi
+cat__team_jonas brothers,0.0009475939374917014,GB_Multi
+cat__minor_category_CIRCUS,0.0009305931155937023,GB_Multi
+cat__team_wu-tang & nas,0.0009223060526149218,GB_Multi
+cat__minor_category_FOLK,0.0008846295669503976,GB_Multi
+cat__team_dallas mavericks,0.0008840432558416715,GB_Multi
+cat__team_charlotte hornets,0.0008820768710463057,GB_Multi
+cat__team_zach bryan,0.0008774257317857408,GB_Multi
+cat__team_philadelphia 76ers,0.0008650082529488332,GB_Multi
+cat__team_madonna,0.0008562777894540659,GB_Multi
+cat__event_day_SUN,0.0008224100622061415,GB_Multi
+cat__team_ringling bros.7:00pm,0.000821408396211818,GB_Multi
+cat__team_womens champions classic,0.0008108047946370625,GB_Multi
+cat__minor_category_R & B,0.0008069866890831471,GB_Multi
+cat__team_los angeles lakers,0.0007873207342983709,GB_Multi
+"cat__team_tyler, the creator",0.0007492056235418031,GB_Multi
+cat__team_toronto raptors,0.0007267891589071135,GB_Multi
+cat__team_atlanta hawks,0.0007171119613810164,GB_Multi
+cat__minor_category_ICE SHOWS,0.0007117127856659417,GB_Multi
+cat__team_bad bunny,0.0006861766160979677,GB_Multi
+cat__minor_category_LATIN MUSIC,0.0006747969688786168,GB_Multi
+cat__team_rock & roll hall of fame,0.000673424199874855,GB_Multi
+cat__team_denver nuggets,0.0006721001993501862,GB_Multi
+cat__team_minnesota timberwolves,0.0006665238010348685,GB_Multi
+cat__team_aventura,0.0006353976689497101,GB_Multi
+cat__team_hot wheels 7:30pm,0.0006217515660363145,GB_Multi
+cat__event_day_MON,0.0006125039956673407,GB_Multi
+cat__minor_category_ROCK/POP,0.0006108340275944417,GB_Multi
+cat__team_jonathan lee,0.0006004583324823672,GB_Multi
+cat__team_salsa festival,0.0005897759155451992,GB_Multi
+cat__team_washington mystics,0.0005546525006187895,GB_Multi
+cat__event_day_TUE,0.0005153805814247926,GB_Multi
+cat__team_miami heat,0.000498518295181241,GB_Multi
+cat__team_peso pluma,0.0004983576771786653,GB_Multi
+cat__property_Brooklyn Nets,0.0004962891078146814,GB_Multi
+cat__minor_category_NBA PRO BASKETBALL,0.00048480716284706306,GB_Multi
+cat__team_billie eilish,0.00048162600936354436,GB_Multi
+cat__team_hot 97 winter jam,0.00048058942353526,GB_Multi
+cat__team_mcdonalds all american,0.00047285017261642097,GB_Multi
+cat__team_new orleans pelicans,0.0004438755970361449,GB_Multi
+cat__team_bounty killer,0.000438368074420733,GB_Multi
+cat__team_maccabi ra anana,0.00043737313941593844,GB_Multi
+cat__team_los angeles sparks,0.00043707352683797674,GB_Multi
+cat__team_we them ones,0.0004290729010925502,GB_Multi
+cat__team_memphis grizzlies,0.00042311436491433154,GB_Multi
+cat__team_martin lawrence,0.0004073808586767711,GB_Multi
+cat__team_atlanta dream,0.00039727665870549164,GB_Multi
+cat__team_linkin park,0.0003915722505991926,GB_Multi
+cat__team_disney on ice 11:00am,0.00038618476208239266,GB_Multi
+cat__team_disney on ice 4:00pm,0.0003831731608723131,GB_Multi
+cat__team_sacramento kings,0.0003706533352545072,GB_Multi
+cat__minor_category_COMEDY,0.0003507292741972257,GB_Multi
+cat__team_r&b forever tour,0.0003463931830470737,GB_Multi
+cat__team_dallas wings,0.0003446573275051964,GB_Multi
+cat__team_wwe monday night raw,0.0003415113803165197,GB_Multi
+cat__team_washington wizards,0.0003330754449877714,GB_Multi
+cat__minor_category_REGGAETON,0.00033304288342930234,GB_Multi
+cat__team_janet jackson,0.0003329316398876464,GB_Multi
+cat__team_las vegas aces,0.0003282493713550283,GB_Multi
+cat__team_rauw alejandro,0.0003188010020607067,GB_Multi
+cat__minor_category_MOTORSPORTS/RACING,0.0002999794264817086,GB_Multi
+cat__team_new york knicks,0.0002907382276978283,GB_Multi
+cat__minor_category_REGGAE,0.00029014687326132,GB_Multi
+cat__minor_category_HEAVY METAL,0.0002849295438114863,GB_Multi
+cat__team_luis miguel,0.00025702897983431494,GB_Multi
+cat__team_barak,0.00025513461873841485,GB_Multi
+cat__team_disney on ice 12:00pm,0.0002525362603708663,GB_Multi
+cat__property_Liberty,0.0002517017785285787,GB_Multi
+cat__team_marc anthony,0.0002335120038536364,GB_Multi
+cat__team_legends classic,0.0002201115558958245,GB_Multi
+cat__minor_category_WNBA PRO BASKETBALL,0.00021514745426991122,GB_Multi
+cat__team_indiana pacers,0.00021253650827490292,GB_Multi
+cat__team_iron maiden,0.0002047582939667259,GB_Multi
+cat__team_lauryn hill,0.00019047358937231273,GB_Multi
+cat__team_usher,0.00018832785301567344,GB_Multi
+cat__minor_category_ETHNIC/FOREIGN,0.00018071997608433126,GB_Multi
+cat__team_konpa kingdom,0.00017821962040741736,GB_Multi
+cat__team_wild n out,0.00017373739080345666,GB_Multi
+cat__minor_category_WRESTLING,0.00017347938127658237,GB_Multi
+cat__team_houston rockets,0.00016117481077774465,GB_Multi
+cat__team_seattle storm,0.00015346614387751363,GB_Multi
+cat__team_sprite jam fest,0.00015282985510132148,GB_Multi
+cat__team_disney on ice 3:00pm,0.00013665203189362025,GB_Multi
+cat__team_chalk talk  vip upgrade,0.00012744210951498916,GB_Multi
+cat__team_arcangel,0.00012647088975455739,GB_Multi
+cat__team_ringling bros.11:00 am,0.000124543654851098,GB_Multi
+cat__team_gold squad vip upgrade,0.00011529515535103721,GB_Multi
+cat__team_sabrina carpenter,0.00011402166054530605,GB_Multi
+cat__team_pbc davis vs. roach,0.00011322833317107743,GB_Multi
+cat__minor_category_GOSPEL,0.00010952597954662669,GB_Multi
+cat__minor_category_BULL RIDING,0.00010686468019498413,GB_Multi
+cat__team_minnesota lynx,0.00010497281489949555,GB_Multi
+cat__team_pbr: teams,0.00010276209680424659,GB_Multi
+cat__team_connecticut sun,9.831883017980206e-05,GB_Multi
+cat__minor_category_SPECIAL ENTRY (UPSELL),9.089553870510547e-05,GB_Multi
+cat__team_reggae fest massive,8.660692302046558e-05,GB_Multi
+cat__minor_category_BOXING,8.539905052086467e-05,GB_Multi
+cat__team_gold over america tour,8.147032898560477e-05,GB_Multi
+cat__team_kirk franklin,6.77729687336954e-05,GB_Multi
+cat__team_ringling bros.6:00pm,6.703635594823131e-05,GB_Multi
+cat__team_nabc brooklyn showcase,6.343650535740461e-05,GB_Multi
+cat__team_justin timberlake,6.306571780759371e-05,GB_Multi
+cat__team_the millennium tour,6.216771274000428e-05,GB_Multi
+cat__team_atlantic 10,5.6277558711076194e-05,GB_Multi
+cat__team_phoenix mercury,5.505970736350846e-05,GB_Multi
+cat__team_sza,5.4823824057555585e-05,GB_Multi
+cat__minor_category_OTHER,5.0525029140931464e-05,GB_Multi
+cat__team_nicki minaj,4.395601240149898e-05,GB_Multi
+cat__team_jordan brand classic 2024,4.08007247507356e-05,GB_Multi
+cat__team_april fools comedy jam,4.014462502103496e-05,GB_Multi
+cat__minor_category_HIGH SCHOOL BASKETBALL,3.632370478449384e-05,GB_Multi
+cat__minor_category_PRO BASKETBALL,3.5814455626550086e-05,GB_Multi
+cat__team_sexyy red,3.572552961632948e-05,GB_Multi
+cat__minor_category_COLLEGE BASKETBALL,3.493399784156189e-05,GB_Multi
+cat__team_golden state valkyries,2.7926217271200217e-05,GB_Multi
+cat__team_chayanne,2.6872100483924437e-05,GB_Multi
+cat__team_wwe smackdown,2.11235196601315e-05,GB_Multi
+cat__team_maxwell,1.9513703462003402e-05,GB_Multi
+cat__team_christian nodal,1.9214883601003803e-05,GB_Multi
+cat__team_kygo,1.898862016753937e-05,GB_Multi
+cat__minor_category_DANCE MUSIC/DANCE,1.6245567259693402e-05,GB_Multi
+cat__team_espn nit tip-off,9.442541441133894e-06,GB_Multi
+cat__team_thirty seconds to mars,7.863684265466526e-06,GB_Multi
+cat__time category_0-30 min before,0.0,GB_Multi
+cat__time category_30-60 min after,0.0,GB_Multi
+cat__time category_30-60 min before,0.0,GB_Multi
+cat__time category_60-90 min before,0.0,GB_Multi
+cat__minor_category_COUNTRY,0.0,GB_Multi
+num__relative start (minutes),0.0,GB_Multi
+cat__team_wwe friday night smackdow,0.0,GB_Multi
+cat__team_depeche mode,0.0,GB_Multi
+cat__team_jhene aiko,0.0,GB_Multi
+cat__team_harlem globetrotters,0.0,GB_Multi
+cat__team_haney vs garcia,0.0,GB_Multi
+cat__team_grupo frontera,0.0,GB_Multi
+cat__team_future,0.0,GB_Multi
+"cat__team_enrique, pitbull, ricky",0.0,GB_Multi
+cat__team_ana gabriel,0.0,GB_Multi
+cat__team_subtronics,0.0,GB_Multi
+cat__team_alejandro fernndez,0.0,GB_Multi
+"cat__team_4 legends, one stage",0.0,GB_Multi
+num__minute_sq,0.0,GB_Multi
+num__minute_cos,0.0,GB_Multi
+num__minute_sin,0.0,GB_Multi
+num__5_minute_bucket,0.0,GB_Multi
+cat__team_joker xue,0.0,GB_Multi
+cat__team_kacey musgraves,0.0,GB_Multi
+cat__team_katt williams,0.0,GB_Multi
+cat__team_kehlani - crash world tou,0.0,GB_Multi
+cat__team_keyshia cole,0.0,GB_Multi
+cat__team_ladies night r&b super ja,0.0,GB_Multi
+cat__team_lil baby,0.0,GB_Multi
+cat__team_liu mens basketball,0.0,GB_Multi
+cat__team_maverick city music,0.0,GB_Multi
+cat__team_missy elliott,0.0,GB_Multi
+cat__team_monster jam 1:00pm,0.0,GB_Multi
+cat__team_power smashers 10:00 am,0.0,GB_Multi
+cat__team_power smashers 5:00 pm,0.0,GB_Multi
+cat__team_r&b music experience ny,0.0,GB_Multi
+cat__team_reggae love fest,0.0,GB_Multi
+cat__team_ringling bros.2:00pm,0.0,GB_Multi
+cat__team_romeo santos,0.0,GB_Multi
+cat__time category_90+ min before,0.0,GB_Multi
+num__queue_mean_3,300.2824427480916,LGB_Multi
+num__queue_slope_3,297.6106870229008,LGB_Multi
+num__log_queue_max10,168.8320610687023,LGB_Multi
+num__count,127.89312977099236,LGB_Multi
+num__temperature_2m_max,90.68702290076335,LGB_Multi
+num__temperature_2m_min,84.41984732824427,LGB_Multi
+num__precipitation_sum,57.786259541984734,LGB_Multi
+num__minute_minor_interaction,45.274809160305345,LGB_Multi
+num__day_cos,42.12977099236641,LGB_Multi
+num__day_sin,39.88549618320611,LGB_Multi
+num__tier,33.51145038167939,LGB_Multi
+num__hour,26.984732824427482,LGB_Multi
+cat__minor_category_RAP/URBAN,19.748091603053435,LGB_Multi
+num__is_weekend,15.641221374045802,LGB_Multi
+num__hour_sin,11.618320610687023,LGB_Multi
+cat__minor_category_ROCK/POP,9.641221374045802,LGB_Multi
+num__property_minor_interaction,6.702290076335878,LGB_Multi
+cat__minor_category_R & B,6.549618320610687,LGB_Multi
+cat__event_day_SUN,6.122137404580153,LGB_Multi
+cat__team_disney on ice 7:00pm,5.351145038167939,LGB_Multi
+cat__event_day_THU,4.877862595419847,LGB_Multi
+cat__team_ringling bros.3:00pm,4.557251908396947,LGB_Multi
+cat__team_ringling bros.7:00pm,3.969465648854962,LGB_Multi
+cat__minor_category_POP,3.9160305343511452,LGB_Multi
+cat__minor_category_ETHNIC/FOREIGN,3.6793893129770994,LGB_Multi
+cat__minor_category_NBA PRO BASKETBALL,3.564885496183206,LGB_Multi
+cat__minor_category_REGGAETON,3.4885496183206106,LGB_Multi
+cat__team_chicago bulls,2.3893129770992365,LGB_Multi
+cat__team_detroit pistons,2.3206106870229006,LGB_Multi
+cat__team_cleveland cavaliers,2.2900763358778624,LGB_Multi
+cat__minor_category_ICE SHOWS,2.282442748091603,LGB_Multi
+cat__event_day_TUE,2.1603053435114505,LGB_Multi
+cat__minor_category_CIRCUS,2.045801526717557,LGB_Multi
+cat__team_orlando magic,1.9618320610687023,LGB_Multi
+cat__team_milwaukee bucks,1.7328244274809161,LGB_Multi
+cat__team_hot wheels 7:30pm,1.251908396946565,LGB_Multi
+cat__team_indiana fever,1.1984732824427482,LGB_Multi
+cat__team_bad bunny,1.1755725190839694,LGB_Multi
+cat__minor_category_COMEDY,1.1145038167938932,LGB_Multi
+cat__team_denver nuggets,1.0916030534351144,LGB_Multi
+cat__team_ringling bros.11:00 am,1.0610687022900764,LGB_Multi
+cat__team_madonna,1.0610687022900764,LGB_Multi
+cat__minor_category_MOTORSPORTS/RACING,1.0610687022900764,LGB_Multi
+cat__team_atlanta hawks,1.0229007633587786,LGB_Multi
+num__hour_cos,0.9389312977099237,LGB_Multi
+cat__minor_category_REGGAE,0.8931297709923665,LGB_Multi
+cat__minor_category_LATIN MUSIC,0.8702290076335878,LGB_Multi
+cat__team_philadelphia 76ers,0.7480916030534351,LGB_Multi
+cat__team_atlantic 10,0.7404580152671756,LGB_Multi
+cat__team_usher,0.7099236641221374,LGB_Multi
+cat__team_hot wheels 12:30pm,0.4732824427480916,LGB_Multi
+cat__team_toronto raptors,0.44274809160305345,LGB_Multi
+cat__team_chicago sky,0.4122137404580153,LGB_Multi
+cat__team_los angeles sparks,0.33587786259541985,LGB_Multi
+cat__minor_category_COLLEGE BASKETBALL,0.31297709923664124,LGB_Multi
+cat__team_washington mystics,0.2900763358778626,LGB_Multi
+cat__team_legends classic,0.16793893129770993,LGB_Multi
+cat__minor_category_SPECIAL ENTRY (UPSELL),0.04580152671755725,LGB_Multi
+cat__team_kygo,0.022900763358778626,LGB_Multi
+cat__team_connecticut sun,0.015267175572519083,LGB_Multi
+cat__team_washington wizards,0.007633587786259542,LGB_Multi
+cat__team_seattle storm,0.0,LGB_Multi
+cat__team_ringling bros.6:00pm,0.0,LGB_Multi
+cat__team_rod wave,0.0,LGB_Multi
+cat__team_san antonio spurs,0.0,LGB_Multi
+cat__team_rock & roll hall of fame,0.0,LGB_Multi
+cat__team_romeo santos,0.0,LGB_Multi
+cat__team_sacramento kings,0.0,LGB_Multi
+cat__team_sabrina carpenter,0.0,LGB_Multi
+cat__team_russ,0.0,LGB_Multi
+cat__team_salsa festival,0.0,LGB_Multi
+num__relative start (minutes),0.0,LGB_Multi
+cat__team_ringling bros.2:00pm,0.0,LGB_Multi
+cat__team_reggae love fest,0.0,LGB_Multi
+cat__team_new york knicks,0.0,LGB_Multi
+cat__team_nick cave,0.0,LGB_Multi
+cat__team_nicki minaj,0.0,LGB_Multi
+cat__team_oklahoma city thunder,0.0,LGB_Multi
+cat__team_pbc davis vs. roach,0.0,LGB_Multi
+cat__team_pbr: teams,0.0,LGB_Multi
+cat__team_peso pluma,0.0,LGB_Multi
+cat__team_phoenix mercury,0.0,LGB_Multi
+cat__team_phoenix suns,0.0,LGB_Multi
+cat__team_sexyy red,0.0,LGB_Multi
+cat__team_portland trail blazers,0.0,LGB_Multi
+cat__team_power smashers 10:00 am,0.0,LGB_Multi
+cat__team_power smashers 5:00 pm,0.0,LGB_Multi
+cat__team_r&b forever tour,0.0,LGB_Multi
+cat__team_r&b music experience ny,0.0,LGB_Multi
+cat__team_rauw alejandro,0.0,LGB_Multi
+cat__team_reggae fest massive,0.0,LGB_Multi
+cat__team_sebastian maniscalco,0.0,LGB_Multi
+cat__team_wwe smackdown,0.0,LGB_Multi
+cat__team_sprite jam fest,0.0,LGB_Multi
+cat__minor_category_BULL RIDING,0.0,LGB_Multi
+cat__minor_category_COUNTRY,0.0,LGB_Multi
+cat__minor_category_DANCE MUSIC/DANCE,0.0,LGB_Multi
+cat__minor_category_FOLK,0.0,LGB_Multi
+cat__minor_category_GOSPEL,0.0,LGB_Multi
+cat__minor_category_HEAVY METAL,0.0,LGB_Multi
+cat__minor_category_HIGH SCHOOL BASKETBALL,0.0,LGB_Multi
+cat__minor_category_K-POP,0.0,LGB_Multi
+cat__minor_category_OTHER,0.0,LGB_Multi
+cat__minor_category_PRO BASKETBALL,0.0,LGB_Multi
+cat__minor_category_WNBA PRO BASKETBALL,0.0,LGB_Multi
+cat__minor_category_WRESTLING,0.0,LGB_Multi
+cat__property_Brooklyn Nets,0.0,LGB_Multi
+cat__property_Liberty,0.0,LGB_Multi
+cat__time category_0-30 min before,0.0,LGB_Multi
+cat__time category_30-60 min after,0.0,LGB_Multi
+cat__time category_30-60 min before,0.0,LGB_Multi
+cat__time category_60-90 min before,0.0,LGB_Multi
+cat__minor_category_CLASSICAL/VOCAL,0.0,LGB_Multi
+cat__minor_category_BOXING,0.0,LGB_Multi
+cat__team_subtronics,0.0,LGB_Multi
+cat__team_zhou shen,0.0,LGB_Multi
+cat__team_sza,0.0,LGB_Multi
+cat__team_the love hard tour,0.0,LGB_Multi
+cat__team_the millennium tour,0.0,LGB_Multi
+cat__team_thirty seconds to mars,0.0,LGB_Multi
+cat__team_travis scott,0.0,LGB_Multi
+cat__team_twenty one pilots,0.0,LGB_Multi
+"cat__team_tyler, the creator",0.0,LGB_Multi
+cat__team_utah jazz,0.0,LGB_Multi
+cat__team_vybz kartel,0.0,LGB_Multi
+cat__team_we them ones,0.0,LGB_Multi
+cat__team_wild n out,0.0,LGB_Multi
+cat__team_womens champions classic,0.0,LGB_Multi
+cat__team_wu-tang & nas,0.0,LGB_Multi
+cat__team_wwe friday night smackdow,0.0,LGB_Multi
+cat__team_wwe monday night raw,0.0,LGB_Multi
+cat__team_nabc brooklyn showcase,0.0,LGB_Multi
+cat__team_zach bryan,0.0,LGB_Multi
+cat__team_new orleans pelicans,0.0,LGB_Multi
+cat__team_los angeles lakers,0.0,LGB_Multi
+cat__team_monster jam 7:00pm,0.0,LGB_Multi
+cat__team_grupo frontera,0.0,LGB_Multi
+cat__team_childish gambino,0.0,LGB_Multi
+cat__team_chris brown,0.0,LGB_Multi
+cat__team_christian nodal,0.0,LGB_Multi
+cat__team_dallas mavericks,0.0,LGB_Multi
+cat__team_dallas wings,0.0,LGB_Multi
+cat__team_depeche mode,0.0,LGB_Multi
+cat__team_disney on ice 11:00am,0.0,LGB_Multi
+cat__team_disney on ice 12:00pm,0.0,LGB_Multi
+cat__team_disney on ice 3:00pm,0.0,LGB_Multi
+cat__team_disney on ice 4:00pm,0.0,LGB_Multi
+cat__team_doja cat,0.0,LGB_Multi
+cat__team_don omar,0.0,LGB_Multi
+cat__team_don toliver,0.0,LGB_Multi
+cat__team_ed sheeran,0.0,LGB_Multi
+"cat__team_enrique, pitbull, ricky",0.0,LGB_Multi
+cat__team_espn nit tip-off,0.0,LGB_Multi
+cat__team_future,0.0,LGB_Multi
+cat__team_g.e.m.,0.0,LGB_Multi
+cat__team_gold over america tour,0.0,LGB_Multi
+cat__team_gold squad vip upgrade,0.0,LGB_Multi
+cat__team_golden state valkyries,0.0,LGB_Multi
+cat__team_chayanne,0.0,LGB_Multi
+cat__team_chase atlantic,0.0,LGB_Multi
+cat__team_charlotte hornets,0.0,LGB_Multi
+cat__team_ana gabriel,0.0,LGB_Multi
+num__5_minute_bucket,0.0,LGB_Multi
+num__minute_sin,0.0,LGB_Multi
+num__minute_cos,0.0,LGB_Multi
+num__minute_sq,0.0,LGB_Multi
+cat__event_day_MON,0.0,LGB_Multi
+cat__event_day_SAT,0.0,LGB_Multi
+cat__event_day_WED,0.0,LGB_Multi
+"cat__team_4 legends, one stage",0.0,LGB_Multi
+cat__team_alejandro fernndez,0.0,LGB_Multi
+cat__team_april fools comedy jam,0.0,LGB_Multi
+cat__team_charli xcx,0.0,LGB_Multi
+cat__team_arcangel,0.0,LGB_Multi
+cat__team_atlanta dream,0.0,LGB_Multi
+cat__team_aventura,0.0,LGB_Multi
+cat__team_barak,0.0,LGB_Multi
+cat__team_billie eilish,0.0,LGB_Multi
+cat__team_boston celtics,0.0,LGB_Multi
+cat__team_bounty killer,0.0,LGB_Multi
+cat__team_buju banton,0.0,LGB_Multi
+cat__team_chalk talk  vip upgrade,0.0,LGB_Multi
+cat__team_golden state warriors,0.0,LGB_Multi
+cat__team_haney vs garcia,0.0,LGB_Multi
+cat__team_monster jam 1:00pm,0.0,LGB_Multi
+cat__team_hans zimmer,0.0,LGB_Multi
+cat__team_ladies night r&b super ja,0.0,LGB_Multi
+cat__team_las vegas aces,0.0,LGB_Multi
+cat__team_latto,0.0,LGB_Multi
+cat__team_lauryn hill,0.0,LGB_Multi
+cat__team_lil baby,0.0,LGB_Multi
+cat__team_lil uzi vert,0.0,LGB_Multi
+cat__team_linkin park,0.0,LGB_Multi
+cat__team_liu mens basketball,0.0,LGB_Multi
+cat__team_luis miguel,0.0,LGB_Multi
+cat__team_maccabi ra anana,0.0,LGB_Multi
+cat__team_marc anthony,0.0,LGB_Multi
+cat__team_martin lawrence,0.0,LGB_Multi
+cat__team_mary j blige,0.0,LGB_Multi
+cat__team_maverick city music,0.0,LGB_Multi
+cat__team_maxwell,0.0,LGB_Multi
+cat__team_mcdonalds all american,0.0,LGB_Multi
+cat__team_memphis grizzlies,0.0,LGB_Multi
+cat__team_miami heat,0.0,LGB_Multi
+cat__team_minnesota lynx,0.0,LGB_Multi
+cat__team_minnesota timberwolves,0.0,LGB_Multi
+cat__team_missy elliott,0.0,LGB_Multi
+cat__team_la clippers,0.0,LGB_Multi
+cat__team_konstantinos argiros,0.0,LGB_Multi
+cat__team_konpa kingdom,0.0,LGB_Multi
+cat__team_jj lin,0.0,LGB_Multi
+cat__team_harlem globetrotters,0.0,LGB_Multi
+cat__team_hot 97 winter jam,0.0,LGB_Multi
+cat__team_houston rockets,0.0,LGB_Multi
+cat__team_indiana pacers,0.0,LGB_Multi
+cat__team_iron maiden,0.0,LGB_Multi
+cat__team_j balvin,0.0,LGB_Multi
+cat__team_j-hope,0.0,LGB_Multi
+cat__team_janet jackson,0.0,LGB_Multi
+cat__team_jhene aiko,0.0,LGB_Multi
+cat__team_joji,0.0,LGB_Multi
+cat__team_kirk franklin,0.0,LGB_Multi
+cat__team_joker xue,0.0,LGB_Multi
+cat__team_jonas brothers,0.0,LGB_Multi
+cat__team_jonathan lee,0.0,LGB_Multi
+cat__team_jordan brand classic 2024,0.0,LGB_Multi
+cat__team_justin timberlake,0.0,LGB_Multi
+cat__team_kacey musgraves,0.0,LGB_Multi
+cat__team_katt williams,0.0,LGB_Multi
+cat__team_kehlani - crash world tou,0.0,LGB_Multi
+cat__team_keyshia cole,0.0,LGB_Multi
+cat__time category_90+ min before,0.0,LGB_Multi
+num__log_queue_max10,0.036475151777267456,XGB_Multi
+num__queue_slope_3,0.026604214683175087,XGB_Multi
+num__temperature_2m_min,0.02433926984667778,XGB_Multi
+num__temperature_2m_max,0.02406926453113556,XGB_Multi
+num__tier,0.024011416360735893,XGB_Multi
+num__day_cos,0.0235529113560915,XGB_Multi
+num__count,0.02347431518137455,XGB_Multi
+num__day_sin,0.023106765002012253,XGB_Multi
+num__minute_minor_interaction,0.021942518651485443,XGB_Multi
+num__precipitation_sum,0.02190817892551422,XGB_Multi
+num__hour,0.021480804309248924,XGB_Multi
+num__queue_mean_3,0.019813260063529015,XGB_Multi
+cat__team_twenty one pilots,0.01890346221625805,XGB_Multi
+cat__team_lil uzi vert,0.017768841236829758,XGB_Multi
+num__is_weekend,0.01661779172718525,XGB_Multi
+num__hour_sin,0.015143832191824913,XGB_Multi
+cat__team_chase atlantic,0.013616184704005718,XGB_Multi
+num__property_minor_interaction,0.01351725123822689,XGB_Multi
+cat__team_childish gambino,0.013054940849542618,XGB_Multi
+cat__team_joji,0.012437453493475914,XGB_Multi
+cat__team_ringling bros.3:00pm,0.012371090240776539,XGB_Multi
+cat__team_ed sheeran,0.012173525989055634,XGB_Multi
+cat__team_disney on ice 7:00pm,0.011741859838366508,XGB_Multi
+cat__minor_category_RAP/URBAN,0.011696640402078629,XGB_Multi
+cat__team_russ,0.01129494234919548,XGB_Multi
+cat__team_chris brown,0.010641523636877537,XGB_Multi
+cat__minor_category_ROCK/POP,0.010587707161903381,XGB_Multi
+cat__team_la clippers,0.010229067876935005,XGB_Multi
+cat__team_philadelphia 76ers,0.009716393426060677,XGB_Multi
+cat__team_rod wave,0.009651929140090942,XGB_Multi
+cat__event_day_THU,0.00961361825466156,XGB_Multi
+cat__team_zach bryan,0.009451600722968578,XGB_Multi
+cat__event_day_SUN,0.009440680034458637,XGB_Multi
+cat__team_milwaukee bucks,0.009249064140021801,XGB_Multi
+cat__team_cleveland cavaliers,0.009177620522677898,XGB_Multi
+cat__team_j-hope,0.00864638201892376,XGB_Multi
+cat__team_detroit pistons,0.008426663465797901,XGB_Multi
+cat__team_chicago bulls,0.008369729854166508,XGB_Multi
+cat__team_chicago sky,0.008045158348977566,XGB_Multi
+cat__team_don omar,0.007825748063623905,XGB_Multi
+cat__team_madonna,0.007766578812152147,XGB_Multi
+cat__team_utah jazz,0.007419779431074858,XGB_Multi
+cat__team_indiana fever,0.007398757617920637,XGB_Multi
+cat__minor_category_NBA PRO BASKETBALL,0.00725194625556469,XGB_Multi
+cat__team_orlando magic,0.007157252635806799,XGB_Multi
+cat__event_day_TUE,0.007065980229526758,XGB_Multi
+cat__team_mary j blige,0.006783400196582079,XGB_Multi
+cat__team_ringling bros.7:00pm,0.006282474845647812,XGB_Multi
+cat__minor_category_POP,0.0062491195276379585,XGB_Multi
+cat__team_hot wheels 12:30pm,0.006035847123712301,XGB_Multi
+cat__team_atlanta hawks,0.005751750897616148,XGB_Multi
+cat__team_bad bunny,0.005652140360325575,XGB_Multi
+cat__team_konstantinos argiros,0.005541105754673481,XGB_Multi
+cat__team_the love hard tour,0.005437787156552076,XGB_Multi
+cat__team_rock & roll hall of fame,0.005425034556537867,XGB_Multi
+cat__team_buju banton,0.005317387171089649,XGB_Multi
+cat__team_san antonio spurs,0.005307366140186787,XGB_Multi
+cat__team_toronto raptors,0.005288190208375454,XGB_Multi
+cat__team_denver nuggets,0.0051857163198292255,XGB_Multi
+cat__team_jonas brothers,0.0051713804714381695,XGB_Multi
+cat__team_vybz kartel,0.0051371813751757145,XGB_Multi
+cat__team_charli xcx,0.005136949475854635,XGB_Multi
+cat__team_charlotte hornets,0.00502883642911911,XGB_Multi
+cat__team_iron maiden,0.005018789321184158,XGB_Multi
+cat__team_hans zimmer,0.005010539665818214,XGB_Multi
+cat__team_aventura,0.004964359104633331,XGB_Multi
+cat__team_phoenix suns,0.004870889242738485,XGB_Multi
+cat__team_ringling bros.11:00 am,0.004819739144295454,XGB_Multi
+cat__team_memphis grizzlies,0.004667453933507204,XGB_Multi
+cat__team_don toliver,0.004619445186108351,XGB_Multi
+cat__team_golden state warriors,0.004546937067061663,XGB_Multi
+cat__team_oklahoma city thunder,0.004506160505115986,XGB_Multi
+cat__minor_category_R & B,0.004496714565902948,XGB_Multi
+cat__team_portland trail blazers,0.004379244055598974,XGB_Multi
+cat__team_doja cat,0.004351163748651743,XGB_Multi
+cat__team_we them ones,0.004293247126042843,XGB_Multi
+cat__team_miami heat,0.004254045896232128,XGB_Multi
+cat__team_dallas mavericks,0.004082247149199247,XGB_Multi
+cat__team_wu-tang & nas,0.00402384577319026,XGB_Multi
+cat__team_minnesota timberwolves,0.003912234678864479,XGB_Multi
+cat__minor_category_CIRCUS,0.0038509005680680275,XGB_Multi
+cat__team_los angeles sparks,0.003802093444392085,XGB_Multi
+cat__team_atlanta dream,0.003574547590687871,XGB_Multi
+cat__team_peso pluma,0.00353208277374506,XGB_Multi
+cat__team_barak,0.0034953332506120205,XGB_Multi
+cat__team_new orleans pelicans,0.0034787419717758894,XGB_Multi
+cat__team_sacramento kings,0.0034667812287807465,XGB_Multi
+num__hour_cos,0.0034318743273615837,XGB_Multi
+cat__team_hot 97 winter jam,0.0034035302232950926,XGB_Multi
+cat__team_los angeles lakers,0.0033279149793088436,XGB_Multi
+cat__team_zhou shen,0.003202125895768404,XGB_Multi
+cat__team_washington mystics,0.0031495450530201197,XGB_Multi
+cat__team_wwe monday night raw,0.0031098017934709787,XGB_Multi
+cat__minor_category_REGGAETON,0.0030775435734540224,XGB_Multi
+cat__team_jj lin,0.003053865861147642,XGB_Multi
+cat__team_hot wheels 7:30pm,0.0030179538298398256,XGB_Multi
+cat__team_billie eilish,0.0029076572973281145,XGB_Multi
+cat__team_janet jackson,0.0029076295904815197,XGB_Multi
+cat__team_gold over america tour,0.0028767064213752747,XGB_Multi
+cat__team_usher,0.0028549768030643463,XGB_Multi
+cat__team_disney on ice 4:00pm,0.0028140307404100895,XGB_Multi
+cat__minor_category_LATIN MUSIC,0.0027907919138669968,XGB_Multi
+cat__team_monster jam 7:00pm,0.0027534968685358763,XGB_Multi
+cat__team_sza,0.0027111172676086426,XGB_Multi
+cat__minor_category_REGGAE,0.0026962298434227705,XGB_Multi
+cat__team_maccabi ra anana,0.002668910427019,XGB_Multi
+cat__team_salsa festival,0.002663005143404007,XGB_Multi
+cat__team_dallas wings,0.002548515796661377,XGB_Multi
+cat__team_las vegas aces,0.0025465700309723616,XGB_Multi
+cat__team_sebastian maniscalco,0.0025193486362695694,XGB_Multi
+cat__team_g.e.m.,0.002510874066501856,XGB_Multi
+cat__minor_category_ETHNIC/FOREIGN,0.0024272995069622993,XGB_Multi
+cat__team_j balvin,0.0024032152723520994,XGB_Multi
+cat__team_lauryn hill,0.0023711416870355606,XGB_Multi
+cat__team_indiana pacers,0.0023124709259718657,XGB_Multi
+cat__team_arcangel,0.002311643213033676,XGB_Multi
+cat__team_boston celtics,0.002260562963783741,XGB_Multi
+cat__team_nick cave,0.0022546499967575073,XGB_Multi
+cat__minor_category_SPECIAL ENTRY (UPSELL),0.0022397188004106283,XGB_Multi
+"cat__team_tyler, the creator",0.0022310102358460426,XGB_Multi
+cat__minor_category_ICE SHOWS,0.0020976827945560217,XGB_Multi
+cat__team_wild n out,0.0020876373164355755,XGB_Multi
+cat__team_sabrina carpenter,0.0020751154515892267,XGB_Multi
+cat__team_christian nodal,0.002072377596050501,XGB_Multi
+cat__team_konpa kingdom,0.0020116479136049747,XGB_Multi
+cat__team_washington wizards,0.001975970109924674,XGB_Multi
+cat__team_latto,0.00194759841542691,XGB_Multi
+cat__team_justin timberlake,0.0018916792469099164,XGB_Multi
+cat__team_seattle storm,0.0018385020084679127,XGB_Multi
+cat__team_luis miguel,0.0018356916261836886,XGB_Multi
+cat__team_gold squad vip upgrade,0.0018277015769854188,XGB_Multi
+cat__team_chalk talk  vip upgrade,0.0017929279711097479,XGB_Multi
+cat__team_new york knicks,0.0016917343018576503,XGB_Multi
+cat__team_minnesota lynx,0.0016469901893287897,XGB_Multi
+cat__team_houston rockets,0.0016283488366752863,XGB_Multi
+cat__team_legends classic,0.0015619939658790827,XGB_Multi
+cat__team_disney on ice 3:00pm,0.0014789652777835727,XGB_Multi
+cat__team_womens champions classic,0.001426410162821412,XGB_Multi
+cat__team_disney on ice 11:00am,0.0013511496363207698,XGB_Multi
+cat__team_connecticut sun,0.0013496394967660308,XGB_Multi
+cat__team_reggae fest massive,0.0012714887270703912,XGB_Multi
+cat__team_rauw alejandro,0.0012563938507810235,XGB_Multi
+cat__team_nabc brooklyn showcase,0.0011436473578214645,XGB_Multi
+cat__team_disney on ice 12:00pm,0.001038094749674201,XGB_Multi
+cat__team_espn nit tip-off,0.001036105677485466,XGB_Multi
+cat__team_chayanne,0.0010275327367708087,XGB_Multi
+cat__team_ringling bros.6:00pm,0.0009996293811127543,XGB_Multi
+cat__team_pbr: teams,0.0009952806867659092,XGB_Multi
+cat__team_nicki minaj,0.0009705849806778133,XGB_Multi
+cat__team_jonathan lee,0.000933928182348609,XGB_Multi
+cat__team_wwe smackdown,0.0008534176158718765,XGB_Multi
+cat__team_april fools comedy jam,0.0008413777104578912,XGB_Multi
+cat__team_kygo,0.0008327054092660546,XGB_Multi
+cat__team_mcdonalds all american,0.0007903785444796085,XGB_Multi
+cat__team_martin lawrence,0.0007648970931768417,XGB_Multi
+cat__team_r&b forever tour,0.0007570663001388311,XGB_Multi
+cat__minor_category_MOTORSPORTS/RACING,0.0006980638718232512,XGB_Multi
+cat__team_atlantic 10,0.0006624013185501099,XGB_Multi
+cat__team_jordan brand classic 2024,0.0006314900238066912,XGB_Multi
+cat__team_bounty killer,0.0006166904931887984,XGB_Multi
+cat__team_sexyy red,0.0005686588701792061,XGB_Multi
+cat__minor_category_COMEDY,0.0005177829880267382,XGB_Multi
+cat__team_phoenix mercury,0.0004783389449585229,XGB_Multi
+cat__team_reggae love fest,0.000389649358112365,XGB_Multi
+cat__team_sprite jam fest,0.00036561323213391006,XGB_Multi
+cat__minor_category_GOSPEL,0.0003127205418422818,XGB_Multi
+cat__team_thirty seconds to mars,0.0003118296735920012,XGB_Multi
+cat__team_haney vs garcia,0.0003090500831604004,XGB_Multi
+cat__minor_category_COLLEGE BASKETBALL,0.0002998092386405915,XGB_Multi
+cat__team_marc anthony,0.00028299441328272223,XGB_Multi
+cat__minor_category_PRO BASKETBALL,0.00023693422554060817,XGB_Multi
+cat__team_the millennium tour,0.00021506386110559106,XGB_Multi
+cat__team_golden state valkyries,0.00021433946676552296,XGB_Multi
+cat__team_kirk franklin,0.0001735860714688897,XGB_Multi
+cat__team_maxwell,0.0001068884230335243,XGB_Multi
+cat__team_keyshia cole,0.0001016650494420901,XGB_Multi
+cat__team_grupo frontera,5.014990165363997e-05,XGB_Multi
+cat__minor_category_K-POP,0.0,XGB_Multi
+cat__minor_category_OTHER,0.0,XGB_Multi
+cat__minor_category_FOLK,0.0,XGB_Multi
+cat__minor_category_BOXING,0.0,XGB_Multi
+cat__time category_60-90 min before,0.0,XGB_Multi
+cat__minor_category_HEAVY METAL,0.0,XGB_Multi
+cat__minor_category_DANCE MUSIC/DANCE,0.0,XGB_Multi
+cat__time category_30-60 min before,0.0,XGB_Multi
+cat__time category_0-30 min before,0.0,XGB_Multi
+cat__minor_category_COUNTRY,0.0,XGB_Multi
+cat__time category_30-60 min after,0.0,XGB_Multi
+cat__property_Liberty,0.0,XGB_Multi
+cat__minor_category_BULL RIDING,0.0,XGB_Multi
+cat__property_Brooklyn Nets,0.0,XGB_Multi
+cat__minor_category_CLASSICAL/VOCAL,0.0,XGB_Multi
+cat__minor_category_WRESTLING,0.0,XGB_Multi
+cat__minor_category_WNBA PRO BASKETBALL,0.0,XGB_Multi
+cat__minor_category_HIGH SCHOOL BASKETBALL,0.0,XGB_Multi
+num__relative start (minutes),0.0,XGB_Multi
+cat__team_wwe friday night smackdow,0.0,XGB_Multi
+cat__team_travis scott,0.0,XGB_Multi
+cat__team_jhene aiko,0.0,XGB_Multi
+cat__team_harlem globetrotters,0.0,XGB_Multi
+cat__team_future,0.0,XGB_Multi
+"cat__team_enrique, pitbull, ricky",0.0,XGB_Multi
+cat__team_depeche mode,0.0,XGB_Multi
+cat__team_ana gabriel,0.0,XGB_Multi
+cat__team_alejandro fernndez,0.0,XGB_Multi
+"cat__team_4 legends, one stage",0.0,XGB_Multi
+cat__event_day_WED,0.0,XGB_Multi
+cat__event_day_SAT,0.0,XGB_Multi
+cat__event_day_MON,0.0,XGB_Multi
+num__minute_sq,0.0,XGB_Multi
+num__minute_cos,0.0,XGB_Multi
+num__minute_sin,0.0,XGB_Multi
+num__5_minute_bucket,0.0,XGB_Multi
+cat__team_joker xue,0.0,XGB_Multi
+cat__team_kacey musgraves,0.0,XGB_Multi
+cat__team_katt williams,0.0,XGB_Multi
+cat__team_pbc davis vs. roach,0.0,XGB_Multi
+cat__team_subtronics,0.0,XGB_Multi
+cat__team_romeo santos,0.0,XGB_Multi
+cat__team_ringling bros.2:00pm,0.0,XGB_Multi
+cat__team_r&b music experience ny,0.0,XGB_Multi
+cat__team_power smashers 5:00 pm,0.0,XGB_Multi
+cat__team_power smashers 10:00 am,0.0,XGB_Multi
+cat__team_monster jam 1:00pm,0.0,XGB_Multi
+cat__team_kehlani - crash world tou,0.0,XGB_Multi
+cat__team_missy elliott,0.0,XGB_Multi
+cat__team_maverick city music,0.0,XGB_Multi
+cat__team_liu mens basketball,0.0,XGB_Multi
+cat__team_linkin park,0.0,XGB_Multi
+cat__team_lil baby,0.0,XGB_Multi
+cat__team_ladies night r&b super ja,0.0,XGB_Multi
+cat__time category_90+ min before,0.0,XGB_Multi
